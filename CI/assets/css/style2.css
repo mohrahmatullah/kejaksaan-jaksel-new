@@ -1,0 +1,11 @@
+.list-c .on-ico {
+    width: 25px;
+    height: auto;
+    position: relative; 
+    bottom: -7px;
+    /* margin-left: -17px; */
+    margin-bottom: -18px;
+}
+.cursor-pointer:hover{
+	cursor: pointer;
+}
